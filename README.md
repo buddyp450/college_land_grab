@@ -6,7 +6,7 @@ The goal of this project is to create and use a data set of properties bought or
 
 ### 1) Create data set to be ingested
 
-I've been pulling the data from [here](http://search.uncg.edu/search?q=annual+report+property+purchased+or+leased&btnG=Search&site=default_collection&client=default_frontend&output=xml_no_dtd&proxystylesheet=default_frontend&sort=date%3AD%3AL%3Ad1&entsp=a&wc=200&wc_mc=1&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1#), better sources encouraged.
+I've been pulling the data from [the uncg web portal](http://search.uncg.edu/search?q=annual+report+property+purchased+or+leased&btnG=Search&site=default_collection&client=default_frontend&output=xml_no_dtd&proxystylesheet=default_frontend&sort=date%3AD%3AL%3Ad1&entsp=a&wc=200&wc_mc=1&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1#), better sources encouraged.
 
 This involves updating the google spreadsheet located [here](https://docs.google.com/spreadsheets/d/1z3y7VtEDA56sIGrwzUaR2T01vXuYccNHjIzBVob9ScQ/edit?usp=sharing) with all publicly available information as far as what is presented in the annual reports.
 
